@@ -5,8 +5,8 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/paypal/gatt"
-	"github.com/paypal/gatt/examples/option"
+	"github.com/chetferry/gatt"
+	"github.com/chetferry/gatt/examples/option"
 	"github.com/suapapa/go_eddystone"
 )
 
